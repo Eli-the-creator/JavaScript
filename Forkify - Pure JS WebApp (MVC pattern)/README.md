@@ -35,6 +35,7 @@ Welcome to the Recipe Search App, a simple yet powerful application designed to 
 ## Technologies Used:
 
 - Vanilla JavaScript
+- SCSS
 - MVC (Model-View-Controller) Pattern
 
 ## Contribution:
